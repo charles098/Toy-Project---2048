@@ -10,5 +10,5 @@ https://2048game.com/?ref=google-search-classic
 
 
 구현 완료한 이미지   
-<img width="666" alt="스크린샷 2021-05-10 오전 2 03 52" src="https://user-images.githubusercontent.com/55475550/117581032-af751100-b135-11eb-9f7a-278c828115f8.png">
+<img width="350" alt="스크린샷 2021-05-10 오전 2 03 52" src="https://user-images.githubusercontent.com/55475550/117581032-af751100-b135-11eb-9f7a-278c828115f8.png">
 
