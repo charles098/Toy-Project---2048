@@ -11,3 +11,4 @@ https://2048game.com/?ref=google-search-classic
 
 구현 완료한 이미지
 <img src="./screenshot.png" width="30%", height="35%">
+
